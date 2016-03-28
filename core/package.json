@@ -1,0 +1,15 @@
+{
+  "name": "soliution-core",
+  "version": "1.0.0",
+  "description": "core shared library",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farcek <farcek@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "sequelize": "^3.20.0"
+  }
+}
